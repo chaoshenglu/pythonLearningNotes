@@ -1,4 +1,4 @@
-## 第一课 Python的环境配置（Windows）
+## 第1课 Python的环境配置（Windows）
 
 # 1.安装python2.7
 [python2.7 64位 下载地址](https://www.python.org/ftp/python/2.7.14/python-2.7.14.amd64.msi)
